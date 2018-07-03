@@ -4,7 +4,7 @@ Offers a simple user interface allowing users to view, search and sort data from
 <img src="https://i.imgur.com/6kyfvgb.png" height="400" width="380">
 <img src="https://i.imgur.com/V9srx4f.png" height="400" width="380">
 <img src="https://i.imgur.com/TiXlnX0.png" height="400" width="380">
-<img src="https://imgur.com/a/fMyr23f.png" height="400" width="380">
+<img src="https://i.imgur.com/QVTtCMs.png" height="400" width="380">
 
 
 
